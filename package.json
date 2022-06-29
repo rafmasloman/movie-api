@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo && exit 1",
+    "start-server": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.18",
+    "sequelize": "^6.21.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "moviez-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
